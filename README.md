@@ -1,69 +1,71 @@
-# Encurtador de Links usando React  🔗
+# Link shortener using React 🔗
 
-Este projeto é um simples encurtador de links construído com React. Ele permite aos usuários encurtar URLs longas em links mais curtos e fáceis de gerenciar.
-
-
+![Post minimalista marketing digital roxo branco e azul](https://github.com/user-attachments/assets/85336a33-bfa5-44c4-a1c6-4741830c1324)
 
 
-## Como Começar  🚀
+## Desception
 
-Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple link shortener built with React. It allows users to shorten long URLs into shorter, more manageable links.
 
-### Pré-requisitos
+## 🚀 How to get started
 
-Antes de executar a aplicação, certifique-se de ter o Node.js e npm instalados em sua máquina.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Instalação
+### Prerequisites
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/thmedu/link-shortener-using-react.git
-   ```
+Before running the application, make sure you have Node.js and npm installed on your machine.
 
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd link-shortener-using-react
-   ```
+### Installation
 
-3. Instale as dependências:
-   ```bash
-   npm install
-   ```
+1. Clone the repository:
+ ```bash
+ git clone https://github.com/thmedu/link-shortener-using-react.git
+ ```
 
-### Executando a Aplicação
+2. Navigate to the project directory:
+ ```bash
+ cd link-shortener-using-react
+ ```
 
-Para rodar a aplicação localmente, utilize o seguinte comando:
+3. Install dependencies:
+ ```bash
+ npm installation
+ ```
+
+### Running the application
+
+To run the application locally, use the following command:
 ```bash
-npm start
+npm home
 ```
-Abra  🌐 [http://localhost:3000](http://localhost:3000) para visualizá-la no seu navegador.
+Open 🌐 [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Scripts Disponíveis
+### Available Scripts
 
-No diretório do projeto, você também pode executar:
+In the project directory you can also run:
 
-- `npm test`: Inicia o executor de testes no modo de observação interativa 🕵️‍♂️.
-- `npm run build`: Compila a aplicação para produção na pasta `build`  📦.
-- `npm run eject`: Ejeta a aplicação do Create React App, permitindo controle total sobre dependências e configuração 🛠️.
+- `npm test`: Starts the test runner in interactive watch mode 🕵️‍♂️.
+- `npm run build`: Compiles the application for production in the `build` folder 📦.
+- `npm run eject`: Ejects the application from Create React App, allowing full control over dependencies and configuration 🛠️.
 
-### Saiba Mais
+### To know more
 
-Você pode aprender mais sobre o Create React App e React na seguinte documentação:
+You can learn more about Create React App and React in the following documentation:
 
-- [Documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
-- [Documentação do React](https://pt-br.reactjs.org/)
+- [Create React app documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+- [React Documentation](https://pt-br.reactjs.org/)
 
-### Recursos Adicionais
+### Additional Resources
 
-Para configurações avançadas e opções de implantação, consulte as seguintes seções na documentação:
+For advanced settings and deployment options, see the following sections of the documentation:
 
-- [Divisão de Código](https://facebook.github.io/create-react-app/docs/code-splitting)
-- [Análise do Tamanho do Pacote](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-- [Criando um Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-- [Configuração Avançada](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-- [Implantação](https://facebook.github.io/create-react-app/docs/deployment)
-- [Resolução de Problemas](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Code splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [Bundle Size Analysis](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [Creating a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [Advanced configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [Deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- [Troubleshooting](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Autor  📝
+## 📝 Author
 
-Thomas Nascimento
+Thomas Eduardo
